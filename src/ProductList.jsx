@@ -281,6 +281,7 @@ function ProductList({ onHomeClick }) {
                 <CartItem onContinueShopping={handleContinueShopping} />
             )}
         </div>
+        <div 
     );
 }
 
