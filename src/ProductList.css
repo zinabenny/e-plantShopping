@@ -188,6 +188,10 @@ body {
 
     
 }
+.added-to-cart {
+  background-color: grey !important;
+  cursor: not-allowed;
+}
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
     .product-card {
@@ -250,3 +254,4 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+  
